@@ -1,0 +1,316 @@
+Inquiry sequence:
+GGGUUUGCGGUGUAAGUGCNNNNNNNCUUACACCGUNNNNNNNNNGCACUAGUACUGAUGUCGUAUACAGGNNNNNN
+Target vertex order:
+112323
+Template sequence:
+GGGUUUGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUACAGGGCUUUU
+>
+GGGUUUGCGGUGUAAGUGCUGUAUCUCUUACACCGUGCUGCACCGGCACUAGUACUGAUGUCGUAUACAGGCAAGGC 12/12
+.....(((((((((((..........))))))))))).......((((.((<<<<)).))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCUUUCGUCCUUACACCGUGAUGUGUAAGCACUAGUACUGAUGUCGUAUACAGGAACGAU 12/12
+....((((((((((((.((....)).))))))))))))(((((.................<<<<)))))...>>>>.
+
+>
+GGGUUUGCGGUGUAAGUGCUUCGCUACUUACACCGUCGGACAUCGGCACUAGUACUGAUGUCGUAUACAGGUGCAUG 12/12
+......((((((((((((......))))))))))))..((((((((<<<<.<<<))))))))...>>>.>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCAUAUUGACUUACACCGUGGUCGCGUGGCACUAGUACUGAUGUCGUAUACAGGAUUUCU 12/12
+....(((((((((((((........)))))))))))))......((((...<<<<...))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCCUAGCACCUUACACCGUGAUACCUAGGCACUAGUACUGAUGUCGUAUACAGGCAACUA 12/12
+(((((((((((((((((((...))).)))))))))))).))))........((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUUCAGCGCUUACACCGUAUACGCACGGCACUAGUACUGAUGUCGUAUACAGGCGGCAG 12/12
+..((.((((((((((((((....)))))))))))))).))..((((((......<<<.))))))..........>>>
+
+>
+GGGUUUGCGGUGUAAGUGCAUGACUUCUUACACCGUUACGCAGCCGCACUAGUACUGAUGUCGUAUACAGGAGACUG 12/12
+......((((((((((..........))))))))))........................<<.....(((..>>)))
+
+>
+GGGUUUGCGGUGUAAGUGCAUACCGGCUUACACCGUACGCGUUCUGCACUAGUACUGAUGUCGUAUACAGGAAACUC 12/12
+..((.((((((((((((........)))))))))))).)).....(((.((..<<)).))).>>.............
+
+>
+GGGUUUGCGGUGUAAGUGCUUGGUCACUUACACCGUCGCGGGCAGGCACUAGUACUGAUGUCGUAUACAGGGAAUUU 12/12
+......((((((((((((......))))))))))))........((((...<<<<...))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCAUCAACGCUUACACCGUGGGAUAACCGCACUAGUACUGAUGUCGUAUACAGGAAGCUU 12/12
+...(((((((((((((((......)))))))))))))))......(((.((..<<)).))).>>.............
+
+>
+GGGUUUGCGGUGUAAGUGCUAAAGGCCUUACACCGUAGCGCUUCGGCACUAGUACUGAUGUCGUAUACAGGUAGACU 12/12
+.(((((((((((((((.(((...))))))))))))))).)))..((((.((<<<<)).))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCUUUAUUGCUUACACCGUAAUGGCUUUGCACUAGUACUGAUGUCGUAUACAGGUUACGU 12/12
+....((((((((((((((......)))))))))))))).........(((.(((........<<.))).))).>>..
+
+>
+GGGUUUGCGGUGUAAGUGCUAAAAUGCUUACACCGUUGUUUUGGAGCACUAGUACUGAUGUCGUAUACAGGGAACCA 12/12
+......((((((((((((......)))))))))))).........(((.((.<<<)).))).>>>............
+
+>
+GGGUUUGCGGUGUAAGUGCUGUCGGCCUUACACCGUGAUCUAGAGGCACUAGUACUGAUGUCGUAUACAGGCAUACA 12/12
+.((.((((((((((((.(((...))))))))))))))).))..........<<<<(((((((>>>>...))))).))
+
+>
+GGGUUUGCGGUGUAAGUGCGGGGGUACUUACACCGUGGGCCGGCAGCACUAGUACUGAUGUCGUAUACAGGCGUCUU 12/12
+.((((((((((((((((((....))))))))))))))))))..........<<<<.((((((>>>>...))))))..
+
+>
+GGGUUUGCGGUGUAAGUGCUUGUGUGCUUACACCGUUGUGCAGAGGCACUAGUACUGAUGUCGUAUACAGGGUCAUG 12/12
+......(((((((((((((....))))))))))))).(((....<<)))...........>>...............
+
+>
+GGGUUUGCGGUGUAAGUGCAUUAGACCUUACACCGUAAUCCAUCCGCACUAGUACUGAUGUCGUAUACAGGCACGAG 12/12
+.((.((((((((((((..........)))))))))))).))..........((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUCUUGCUCUUACACCGUUGUGCGACGGCACUAGUACUGAUGUCGUAUACAGGUACUAA 12/12
+......((((((((((.((....)).))))))))))(((((((((....<<<<<<<..)))))))))..>>>>>>>.
+
+>
+GGGUUUGCGGUGUAAGUGCUUGAGUUCUUACACCGUAUGUCCUAGGCACUAGUACUGAUGUCGUAUACAGGUCGGUU 12/12
+((((.(((((((((((.(((()))).))))))))))).))))..((((......<<<<)))).........>>>>..
+
+>
+GGGUUUGCGGUGUAAGUGCGUCGCGCCUUACACCGUCUCUCUCGCGCACUAGUACUGAUGUCGUAUACAGGCAACCU 12/12
+......((((((((((.(((...)))))))))))))...............((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUUGUCUACUUACACCGUGUAUCUAUAGCACUAGUACUGAUGUCGUAUACAGGCAGGCC 12/12
+((((.(((((((((((((......))))))))))))).)))).........((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUGGUAUGCUUACACCGUACGCCAACGGCACUAGUACUGAUGUCGUAUACAGGAACCGU 12/12
+.(((.(((((((((((((......))))))))))))).))).((((((<<.<<<....)))))).>>>.>>......
+
+>
+GGGUUUGCGGUGUAAGUGCUUCAGUCCUUACACCGUGGAUUAAUAGCACUAGUACUGAUGUCGUAUACAGGCAGUUG 12/12
+.(((((((((((((((.((....)).)))))))))))))))..........<<<<.((((((>>>>...)))).)).
+
+>
+GGGUUUGCGGUGUAAGUGCGCCGAUUCUUACACCGUAAGUUUACCGCACUAGUACUGAUGUCGUAUACAGGGAAACU 12/12
+.(((((((((((((((..........)))))))))))))))....(((.((..<<)).))).>>.............
+
+>
+GGGUUUGCGGUGUAAGUGCCAAAUUCCUUACACCGUAGUGAAGAAGCACUAGUACUGAUGUCGUAUACAGGCGGGAG 12/12
+....((((((((((((..........)))))))))))).............((((....<<<))))...>>>.....
+
+>
+GGGUUUGCGGUGUAAGUGCUCGUAUUCUUACACCGUUGAUCGUAUGCACUAGUACUGAUGUCGUAUACAGGGGACGU 12/12
+.((((.((((((((((..........)))))))))).))))(((((...........<<<<<.)))))....>>>>>
+
+>
+GGGUUUGCGGUGUAAGUGCAUUCAUGCUUACACCGUGGGUUGUGAGCACUAGUACUGAUGUCGUAUACAGGAAACAU 12/12
+.(((((((((((((((((......)))))))))))))))))....(((.((..<<)).))).>>.............
+
+>
+GGGUUUGCGGUGUAAGUGCUUCGGUUCUUACACCGUUACAUGCGAGCACUAGUACUGAUGUCGUAUACAGGCAACUA 12/12
+......((((((((((.((....)).))))))))))...((((...............<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCGUUCCUGCUUACACCGUGUUUUGAGAGCACUAGUACUGAUGUCGUAUACAGGAUACGA 12/12
+......((((((((((((......))))))))))))..................<<<...((((((.>>>.))))))
+
+>
+GGGUUUGCGGUGUAAGUGCAUUGAUCCUUACACCGUUGAGGGGGCGCACUAGUACUGAUGUCGUAUACAGGAACAUC 12/12
+......((((((((((..........))))))))))...............<<<<.(((((.>>>>......)))))
+
+>
+GGGUUUGCGGUGUAAGUGCUAUGAUGCUUACACCGUAACAUGGGCGCACUAGUACUGAUGUCGUAUACAGGGAGCAA 12/12
+....((((((((((((((......))))))))))))))........((.((.<<<)).))..>>>............
+
+>
+GGGUUUGCGGUGUAAGUGCUGCAAUCCUUACACCGUAGUGACGGCGCACUAGUACUGAUGUCGUAUACAGGUGACUU 12/12
+....((((((((((((..........))))))))))))..((((((<<<<.<<.....))))))..>>.>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUGGGCGGCUUACACCGUGGGGCAGCGGCACUAGUACUGAUGUCGUAUACAGGUGAGCA 12/12
+...((((((((((((((........))))))))))))))...((((((<<.<<<....)))))).>>>.>>......
+
+>
+GGGUUUGCGGUGUAAGUGCUGCAGUUCUUACACCGUGGGCGAGAGGCACUAGUACUGAUGUCGUAUACAGGAUAAUA 12/12
+..((((((((((((((.(((()))).))))))))))))))....((((...<<<<...))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCAUUAACGCUUACACCGUGGUGGAUCGGCACUAGUACUGAUGUCGUAUACAGGGGAUUA 12/12
+....((((((((((((((......)))))))))))))).....(((((.((<<<.)).)))))>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCGUUUGUCCUUACACCGUGGUACGCGCGCACUAGUACUGAUGUCGUAUACAGGGGGGAC 12/12
+.....(((((((((((.((....)).)))))))))))<<<<(((.(((.((>>>>)).)))))).............
+
+>
+GGGUUUGCGGUGUAAGUGCAGAGACGCUUACACCGUGUGUCGCCGGCACUAGUACUGAUGUCGUAUACAGGGUAAAU 12/12
+.....(((((((((((((......))))))))))))).......((((.((<<<<)).))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCCUGAUUGCUUACACCGUAAUUCAACAGCACUAGUACUGAUGUCGUAUACAGGCGCAUG 12/12
+....((((((((((((((......)))))))))))))).............((((.....<<))))...>>......
+
+>
+GGGUUUGCGGUGUAAGUGCUUUGAUACUUACACCGUGGGGCGGCGGCACUAGUACUGAUGUCGUAUACAGGCUAGUU 12/12
+...(((((((((((((((......)))))))))))))))...<<<<<((((((.(((((>>>>>)).))))))))).
+
+>
+GGGUUUGCGGUGUAAGUGCACCAGUUCUUACACCGUUGAUCAUACGCACUAGUACUGAUGUCGUAUACAGGUAUUAU 12/12
+.((((.((((((((((.((....)).)))))))))).))))(((((((..<<<<<<..)).)))))...>>>>>>..
+
+>
+GGGUUUGCGGUGUAAGUGCUAAAGGCCUUACACCGUCGUGCGUAUGCACUAGUACUGAUGUCGUAUACAGGAGCUGU 12/12
+......((((((((((.(((...))))))))))))).((((<<<<))))...............>>>>.........
+
+>
+GGGUUUGCGGUGUAAGUGCUUGGGCUCUUACACCGUUGAUAUUCGGCACUAGUACUGAUGUCGUAUACAGGUAUCUA 12/12
+......((((((((((.((....)).))))))))))...(((.(((((.<<<<<<<..))))).)))..>>>>>.>>
+
+>
+GGGUUUGCGGUGUAAGUGCAUAAAUUCUUACACCGUAAUGCAGAAGCACUAGUACUGAUGUCGUAUACAGGUUAAAC 12/12
+....((((((((((((..........)))))))))))).((<<..)).......>>.....................
+
+>
+GGGUUUGCGGUGUAAGUGCUUGUCUGCUUACACCGUAAGGCGUUUGCACUAGUACUGAUGUCGUAUACAGGUGCCAU 12/12
+...(((((((((((((((......)))))))))))))))<<<<..(((((.(((...>>>>....))).)))))...
+
+>
+GGGUUUGCGGUGUAAGUGCGUACGCGCUUACACCGUAAGCCAGUUGCACUAGUACUGAUGUCGUAUACAGGCAUCGA 12/12
+.(((((((((((((((((((())))))))))))))))))))..........<<<<.((((((>>>>...))))))..
+
+>
+GGGUUUGCGGUGUAAGUGCGAGCAAUCUUACACCGUGAGGUUAGGGCACUAGUACUGAUGUCGUAUACAGGGGAAUG 12/12
+...(((((((((((((..........)))))))))))))...<<((((>>........))))...............
+
+>
+GGGUUUGCGGUGUAAGUGCUUGGACCCUUACACCGUGUACUCGCGGCACUAGUACUGAUGUCGUAUACAGGUGACUU 12/12
+((((.(((((((((((..........))))))))))).))))((((((<<.<<<....)))))).>>>.>>......
+
+>
+GGGUUUGCGGUGUAAGUGCAAUACUGCUUACACCGUUUUGCGAACGCACUAGUACUGAUGUCGUAUACAGGCACCUU 12/12
+......((((((((((((......))))))))))))...............((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCGUUCACCCUUACACCGUCUCUUCACAGCACUAGUACUGAUGUCGUAUACAGGCAUGCG 12/12
+......((((((((((..........))))))))))...............<<<<..(((((>>>>...)))))...
+
+>
+GGGUUUGCGGUGUAAGUGCAAUCGUACUUACACCGUGACUACGCCGCACUAGUACUGAUGUCGUAUACAGGACAUAU 12/12
+....(((((((((((((((....))))))))))))))).............<<<<..(((((>>>>....)))))..
+
+>
+GGGUUUGCGGUGUAAGUGCGCGCUCACUUACACCGUGACCUAGCGGCACUAGUACUGAUGUCGUAUACAGGCACCGG 12/12
+(((((.((((((((((((.(()).))))))))))))))))).((((((......<<<.))))))..........>>>
+
+>
+GGGUUUGCGGUGUAAGUGCUGCGGUUCUUACACCGUAGGGCGUAUGCACUAGUACUGAUGUCGUAUACAGGAACCUC 12/12
+....((((((((((((.(((()))).))))))))))))...((((((.......<<......))))))>>.......
+
+>
+GGGUUUGCGGUGUAAGUGCUUAACUGCUUACACCGUUUCGCGCCGGCACUAGUACUGAUGUCGUAUACAGGAAACUU 12/12
+......((((((((((((......)))))))))))).......(((((.((<<<.)).)))))>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCUUGAGCGCUUACACCGUGGUGAAUGCGCACUAGUACUGAUGUCGUAUACAGGCGUCUU 12/12
+....((((((((((((((((())))))))))))))))).............<<<<.((((((>>>>...))))))..
+
+>
+GGGUUUGCGGUGUAAGUGCUCCGGUGCUUACACCGUUGUUAAUACGCACUAGUACUGAUGUCGUAUACAGGAAAGUU 12/12
+......(((((((((((((....))))))))))))).....(((((........<<<....))))).>>>.......
+
+>
+GGGUUUGCGGUGUAAGUGCAAGGCGCCUUACACCGUCGUCCAAACGCACUAGUACUGAUGUCGUAUACAGGCGCAGU 12/12
+......((((((((((.((.....))))))))))))...............<<<<((.((((>>>>...))))))..
+
+>
+GGGUUUGCGGUGUAAGUGCUCUUGUGCUUACACCGUCGCGAAGCGGCACUAGUACUGAUGUCGUAUACAGGCACCAG 12/12
+......(((((((((((((....)))))))))))))......<<..........(((.((((>>.....)))).)))
+
+>
+GGGUUUGCGGUGUAAGUGCUUGACUGCUUACACCGUCGUACAGAUGCACUAGUACUGAUGUCGUAUACAGGCAAGCU 12/12
+......((((((((((((......))))))))))))...............((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUUGCGAGCUUACACCGUUUGGUUGCCGCACUAGUACUGAUGUCGUAUACAGGGCCUUU 12/12
+......(((((((((((........))))))))))).........(((.((.<<<)).))).>>>............
+
+>
+GGGUUUGCGGUGUAAGUGCUAAAGCCCUUACACCGUUGAUAAUAAGCACUAGUACUGAUGUCGUAUACAGGACUCUU 12/12
+......((((((((((.((....)).))))))))))...............(((<<.......)))..>>.......
+
+>
+GGGUUUGCGGUGUAAGUGCAGGAGAUCUUACACCGUAGCCCAUAGGCACUAGUACUGAUGUCGUAUACAGGCAGCAA 12/12
+(((((.((((((((((..........)))))))))))))))..........<<<<((.((((>>>>...)))).)).
+
+>
+GGGUUUGCGGUGUAAGUGCUAACCUGCUUACACCGUAGGUAUCCAGCACUAGUACUGAUGUCGUAUACAGGUGAACG 12/12
+..((((((((((((((((......))))))))))))))))<<.<<<((((.(((>>>>>......))).))))....
+
+>
+GGGUUUGCGGUGUAAGUGCGUCGACUCUUACACCGUGAUCCGGUAGCACUAGUACUGAUGUCGUAUACAGGGAGCCC 12/12
+.((.((((((((((((..........)))))))))))).))...........(((<<.....)))..>>........
+
+>
+GGGUUUGCGGUGUAAGUGCUGGGUCGCUUACACCGUUGGUCUAGAGCACUAGUACUGAUGUCGUAUACAGGGAGCCA 12/12
+(((((.((((((((((((......)))))))))))).)))))...........<<...(((.>>..)))........
+
+>
+GGGUUUGCGGUGUAAGUGCGUUGGUGCUUACACCGUGGUACCGGAGCACUAGUACUGAUGUCGUAUACAGGCACAUA 12/12
+.((((((((((((((((((....))))))))))))))).))).........<<<<((.((((>>>>...))))))..
+
+>
+GGGUUUGCGGUGUAAGUGCUUGAUCGCUUACACCGUGUUGCGUGUGCACUAGUACUGAUGUCGUAUACAGGCUUCAC 12/12
+.....(((((((((((((......)))))))))))))..............<<<<(((.(((>>>>...))).))).
+
+>
+GGGUUUGCGGUGUAAGUGCGUGGAGGCUUACACCGUGGAUCGUAUGCACUAGUACUGAUGUCGUAUACAGGAUAUGA 12/12
+.((((((((((((((((........))))))))))))))))((((((.............<<)))))).......>>
+
+>
+GGGUUUGCGGUGUAAGUGCGUCAGCUCUUACACCGUGGUCCAGGUGCACUAGUACUGAUGUCGUAUACAGGGGUCGU 12/12
+.((.((((((((((((.((....)).)))))))))))).)).(((((.<<.))))).............>>......
+
+>
+GGGUUUGCGGUGUAAGUGCAUUGCGUCUUACACCGUAUUGGGUGAGCACUAGUACUGAUGUCGUAUACAGGACACUG 12/12
+.....(((((((((((..........))))))))))).....................((((.....<<<))))>>>
+
+>
+GGGUUUGCGGUGUAAGUGCGGAACCACUUACACCGUUGAGUGACGGCACUAGUACUGAUGUCGUAUACAGGGGGCCG 12/12
+......((((((((((((......))))))))))))......((((((<<.<<<....)))))).>>>.>>......
+
+>
+GGGUUUGCGGUGUAAGUGCUCGGGUUCUUACACCGUGGUCUCUAGGCACUAGUACUGAUGUCGUAUACAGGAAUCGA 12/12
+(((.((((((((((((.(((()))).)))))))))))).)))..((((...<<<<...))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCUUAAGCGCUUACACCGUUAACUUGGCGCACUAGUACUGAUGUCGUAUACAGGCUUCGU 12/12
+(((((.((((((((((((((())))))))))))))).))))).........<<<<.((.(((>>>>...))).))..
+
+>
+GGGUUUGCGGUGUAAGUGCCUGUGGUCUUACACCGUUUUGCAGGUGCACUAGUACUGAUGUCGUAUACAGGUCCCAG 12/12
+......((((((((((.(((...)))))))))))))......(((((<<<.))))).............>>>.....
+
+>
+GGGUUUGCGGUGUAAGUGCUAAAGUUCUUACACCGUGUGUGCAAGGCACUAGUACUGAUGUCGUAUACAGGCCAACA 12/12
+.....(((((((((((.((....)).))))))))))).......((((.((<<<<)).))))>>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCUCCAGUCCUUACACCGUGUUUUUUCGGCACUAGUACUGAUGUCGUAUACAGGUCACUA 12/12
+......((((((((((.((....)).)))))))))).......(((((.((<<<.)).)))))>>>...........
+
+>
+GGGUUUGCGGUGUAAGUGCGACUGUUCUUACACCGUUUGGCGGAAGCACUAGUACUGAUGUCGUAUACAGGCAAAUA 12/12
+......((((((((((.((....)).))))))))))...............((((...<<<<))))...>>>>....
+
+>
+GGGUUUGCGGUGUAAGUGCUUUGCCGCUUACACCGUGGUUCAUACGCACUAGUACUGAUGUCGUAUACAGGGAAUUU 12/12
+....((((((((((((((......))))))))))))))...(((((........<<<....))))).>>>.......
+
+
+Number of chromosomes in heaven: 77
