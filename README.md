@@ -11,9 +11,9 @@ For automatic design, only the target dual graph is needed. \
 (3) Optimize the candidate sequences by sorting and retaining only minimal or essential mutations.
 
 The 2D folding prediction programs used are PKNOTS, NUPACK, and IPknot. The user needs to install command-line version NUPACK and IPknot (installing PKNOTS is optional): \
-NUPACK: http://nupack.org/downloads \
+NUPACK: http://nupack.org/downloads (version 3.2.2 used) \
 IPknot: https://github.com/satoken/ipknot \
-PKNOTS: http://eddylab.org/software.html
+PKNOTS: http://eddylab.org/software.html (version v1.2 used)
 
 An RNA 2D structure format conversion program is also needed: \
 RNAstructure command-line version: https://rna.urmc.rochester.edu/Text/index.html
