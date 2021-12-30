@@ -26,7 +26,8 @@ The command needed to run Dual-RAG-IF is: \
 &nbsp;&nbsp;&nbsp;&nbsp;@ [optional] templateSeq=a file containing a template sequence \
 &nbsp;&nbsp;&nbsp;&nbsp;@ [optional] k=folding prediction program (1 for PKNOTS, 2 for NUPACK, 3 for IPknot)
 
-The final optimized mutation results are written in a file named after the target dual graph: [graphID]min_mut
+The final optimized mutation results are written in a file named after the target dual graph: [graphID]min_mut. \
+The expected run time is 2-12 hours.
       
 Two example runs are provided for the 77nt SARS-CoV-2 frameshifting element in the "Example" folder, one using automatic design for 3_3 target dual graph with command: \
 &nbsp;&nbsp;&nbsp;&nbsp;% python dualRAGIF.py 77nt_FSE.ct 1 3_3 tmpf=tmpf.out k=3 \
