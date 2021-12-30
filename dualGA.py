@@ -537,7 +537,7 @@ def runGA_graph(inpf, kwargs):
    nstill_1 = 100 # if the heavenList is not changed for up to 'nstill' iterations, mutate chromosomes in waiveList
    nstill_0 = 150 
 
-   nsurvivors = 10 # 500 # when the heaven has 'nsurvivors' chromosomes, stop the program 
+   nsurvivors = 500 # 500 # when the heaven has 'nsurvivors' chromosomes, stop the program 
 
    niter = 500 # number of iteration
 
