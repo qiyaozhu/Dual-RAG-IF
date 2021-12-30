@@ -3,7 +3,7 @@ RNA inverse folding using dual graph representations (Schlick Lab)
 
 Dual-RAG-IF finds the minimal mutations that make an RNA sequence fold onto a (closely related) target dual graph, where double-stranded stems are represented as vertices and single-stranded loops as edges. This algorithm is based on the 2020 initial RAG-IF program (Jain et al., J Struct. Biol., 2020). We have successfully applied Dual-RAG-IF to find structure-alternating mutations for the SARS-CoV-2 frameshifting element (Schlick et al., Biophys. J., 2021; Schlick et al., JACS, 2021).
 
-Dual-RAG-IF has three steps:
+Dual-RAG-IF has three steps: \\
 (1) Identify mutation regions, which can be done manually or automatically.
 For manual design, the input file needs to contain a target 2D structure (in dot-bracket format) compatible with the target dual graph, and a sequence specifying the mutation regions by writing the residues as 'N'.
 For automatic design, only the target dual graph is needed.
