@@ -19,7 +19,7 @@ An RNA 2D structure format conversion program is also needed: \
 RNAstructure command-line version: https://rna.urmc.rochester.edu/Text/index.html
 
 The command needed to run Dual-RAG-IF is: \
-&nbsp;&nbsp;&nbsp;&nbsp;% python&nbsp;&nbsp;dualRAGIF.py&nbsp;&nbsp;originalRNA.ct&nbsp;&nbsp;designMethod&nbsp;&nbsp;target&nbsp;&nbsp;[templateSeq=?.out&nbsp;&nbsp;k=?] \
+&nbsp;&nbsp;&nbsp;&nbsp;% python dualRAGIF.py originalRNA.ct designMethod target [templateSeq=?.out k=?] \
 &nbsp;&nbsp;&nbsp;&nbsp;@ originalRNA.ct contains the original sequence's 2D structure in ct format \
 &nbsp;&nbsp;&nbsp;&nbsp;@ designMethod is 1 for automatic design, or 2 for manual design \
 &nbsp;&nbsp;&nbsp;&nbsp;@ target is a dual graph ID if automatic design used, or a two-line design file containing a target 2D structure (in dot-bracket format) and a sequence with mutation regions in 'N' \
